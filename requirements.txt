@@ -1,0 +1,7 @@
+huesdk
+streamlit
+PIL
+time
+numpy
+cv2
+mediapipe
